@@ -82,8 +82,13 @@ MtMoon_1F_Text_RobbyPostBattle::
     .string "be able to count on it.$"
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
-    .string "Beware!\n"
-    .string "ZUBAT is a bloodsucker!$"
+	.string "Beware!\n"
+	.string "ZUBAT is a bloodsucker!\p"
+	.string "1F Pokemon: Zubat, Clefairy, Geodude.\p"
+	.string "B1F Pokemon: Paras.\p"
+	.string "B2F Pokemon: Sandshrew, Geodude,\n"
+	.string "Zubat, Paras, Clefairy.$"
+
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
     .string "Hi, I'm excavating for fossils here\n"

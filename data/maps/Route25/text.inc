@@ -117,3 +117,7 @@ Route25_Text_AreYouHereAlone::
     .string "If you're out at CERULEAN's cape…\n"
     .string "Well, it should be as a couple.$"
 
+Route25_Text_AvailableMon::
+	.string "Route 25. Please be aware, that\n"
+	.string "powerful Bug Type pokemon can be found\n"
+	.string "here. Including Butterfree and Beedrill.$"

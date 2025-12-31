@@ -197,9 +197,9 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
 
     [MOVE_CUT] =
     {
-        .effect = EFFECT_HIT,
-        .power = 50,
-        .type = TYPE_NORMAL,
+        .effect = EFFECT_HIGH_CRITICAL,
+        .power = 55,
+        .type = TYPE_BUG,
         .accuracy = 95,
         .pp = 30,
         .secondaryEffectChance = 0,
@@ -536,7 +536,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_TWINEEDLE] =
     {
         .effect = EFFECT_TWINEEDLE,
-        .power = 25,
+        .power = 40,
         .type = TYPE_BUG,
         .accuracy = 100,
         .pp = 20,
@@ -549,9 +549,9 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_PIN_MISSILE] =
     {
         .effect = EFFECT_MULTI_HIT,
-        .power = 14,
+        .power = 25,
         .type = TYPE_BUG,
-        .accuracy = 85,
+        .accuracy = 90,
         .pp = 20,
         .secondaryEffectChance = 0,
         .target = MOVE_TARGET_SELECTED,
@@ -1707,7 +1707,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     {
         .effect = EFFECT_MULTI_HIT,
         .power = 20,
-        .type = TYPE_NORMAL,
+        .type = TYPE_STEEL,
         .accuracy = 100,
         .pp = 15,
         .secondaryEffectChance = 0,
@@ -1836,7 +1836,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_LEECH_LIFE] =
     {
         .effect = EFFECT_ABSORB,
-        .power = 20,
+        .power = 40,
         .type = TYPE_BUG,
         .accuracy = 100,
         .pp = 15,

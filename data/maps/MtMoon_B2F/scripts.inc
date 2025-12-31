@@ -58,6 +58,8 @@ MtMoon_B2F_EventScript_DomeFossil::
 	removeobject LOCALID_DOME_FOSSIL
 	giveitem_msg MtMoon_B2F_Text_ObtainedDomeFossil, ITEM_DOME_FOSSIL, 1, MUS_OBTAIN_KEY_ITEM
 	closemessage
+	giveitem_msg MtMoon_B2F_Text_ObtainedHelixFossil, ITEM_HELIX_FOSSIL, 1, MUS_OBTAIN_KEY_ITEM
+	closemessage
 	special QuestLog_CutRecording
 	delay 10
 	applymovement LOCALID_MIGUEL, MtMoon_B2F_Movement_MiguelToHelixFossil
@@ -88,6 +90,8 @@ MtMoon_B2F_EventScript_HelixFossil::
 	goto_if_eq VAR_RESULT, NO, MtMoon_B2F_EventScript_DontTakeFossil
 	removeobject LOCALID_HELIX_FOSSIL
 	giveitem_msg MtMoon_B2F_Text_ObtainedHelixFossil, ITEM_HELIX_FOSSIL, 1, MUS_OBTAIN_KEY_ITEM
+	closemessage
+	giveitem_msg MtMoon_B2F_Text_ObtainedDomeFossil, ITEM_DOME_FOSSIL, 1, MUS_OBTAIN_KEY_ITEM
 	closemessage
 	special QuestLog_CutRecording
 	delay 10

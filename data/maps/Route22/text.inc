@@ -61,6 +61,9 @@ Route22_Text_LateRivalVictory::
 	.string "あははーッ！$"
 
 Route22_Text_LeagueGateSign::
-	.string "POKéMON LEAGUE\n"
-	.string "Front Gate$"
+	.string "POKEMON LEAGUE Front Gate. The\n"
+	.string "Ultimate goal for all trainers.\p"
+	.string "We hope to see you soon.\p"
+	.string "Pokemon available on this route include\n"
+	.string "Nidoran, Mankey, and Spearow.$"
 

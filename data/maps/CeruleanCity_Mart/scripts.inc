@@ -22,15 +22,19 @@ CeruleanCity_Mart_EventScript_Clerk::
 
 	.align 2
 CeruleanCity_Mart_Items::
-	.2byte ITEM_POKE_BALL
+	.2byte ITEM_SAFARI_BALL
 	.2byte ITEM_SUPER_POTION
 	.2byte ITEM_POTION
+	.2byte ITEM_ETHER
 	.2byte ITEM_ANTIDOTE
 	.2byte ITEM_PARALYZE_HEAL
 	.2byte ITEM_AWAKENING
 	.2byte ITEM_BURN_HEAL
 	.2byte ITEM_ESCAPE_ROPE
 	.2byte ITEM_REPEL
+	.2byte ITEM_RARE_CANDY
+	.2byte ITEM_ORAN_BERRY
+	.2byte ITEM_LUM_BERRY
 	.2byte ITEM_NONE
 	release
 	end

@@ -99,6 +99,8 @@ Route3_Text_RobinPostBattle::
     .string "MT. MOON.$"
 
 Route3_Text_RouteSign::
-    .string "ROUTE 3\n"
-    .string "MT. MOON AHEAD$"
+	.string "Route 3. Mt Moon Ahead.\p"
+	.string "Recently Cleffa have been seen coming\n"
+	.string "down from Mt Moon. Also available are\n"
+	.string "Ekans, Sandshrew, and Igglybuff.$"
 

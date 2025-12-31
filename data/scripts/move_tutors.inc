@@ -114,7 +114,6 @@ Route4_EventScript_MegaPunchTutor::
 	setvar VAR_0x8005, MOVETUTOR_MEGA_PUNCH
 	call EventScript_ChooseMoveTutorMon
 	goto_if_eq VAR_RESULT, FALSE, EventScript_MegaPunchDeclined
-	setflag FLAG_TUTOR_MEGA_PUNCH
 	goto EventScript_MegaPunchTaught
 	end
 
@@ -140,7 +139,6 @@ Route4_EventScript_MegaKickTutor::
 	setvar VAR_0x8005, MOVETUTOR_MEGA_KICK
 	call EventScript_ChooseMoveTutorMon
 	goto_if_eq VAR_RESULT, FALSE, EventScript_MegaKickDeclined
-	setflag FLAG_TUTOR_MEGA_KICK
 	goto EventScript_MegaKickTaught
 	end
 

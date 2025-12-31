@@ -74,14 +74,14 @@ PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
     .string "Oh, that's right, I told you to\n"
     .string "come! Just wait!\p"
     .string "Here, {PLAYER}.\p"
-    .string "There are three POKéMON here.\p"
+    .string "There are two POKéMON here.\p"
     .string "Haha!\p"
     .string "The POKéMON are held inside\n"
     .string "these POKé BALLS.\p"
     .string "When I was young, I was a serious\n"
     .string "POKéMON TRAINER.\p"
     .string "But now, in my old age, I have\n"
-    .string "only these three left.\p"
+    .string "only these two left.\p"
     .string "You can have one.\n"
     .string "Go on, choose!$"
 
@@ -91,7 +91,7 @@ PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
     .string "OAK: Now, {PLAYER}.\p"
-    .string "Inside those three POKé BALLS are\n"
+    .string "Inside those two POKé BALLS are\n"
     .string "POKéMON.\p"
     .string "Which one will you choose for\n"
     .string "yourself?$"
@@ -101,10 +101,11 @@ PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
     .string "Don't go away yet!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-    .string "Ah! CHARMANDER is your choice.\n"
-    .string "You should raise it patiently.\p"
-    .string "So, {PLAYER}, you're claiming the\n"
-    .string "FIRE POKéMON CHARMANDER?$"
+	.string "Ok! EEVEE is your choice.\n"
+	.string "I wonder what you'll decide\n"
+	.string "to evolve it into?\p"
+	.string "So, {PLAYER}, you're claiming the\n"
+	.string "EVOLUTION POKéMON EEVEE?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
     .string "Hm! SQUIRTLE is your choice.\n"
@@ -113,10 +114,12 @@ PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
     .string "WATER POKéMON SQUIRTLE?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
-    .string "I see! BULBASAUR is your choice.\n"
-    .string "It's very easy to raise.\p"
-    .string "So, {PLAYER}, you want to go with\n"
-    .string "the GRASS POKéMON BULBASAUR?$"
+	.string "Ah! PICHU is your choice.\n"
+	.string "It might be a challenge at times, but I\n"
+	.string "think you'll find it rewarding to raise.\p"
+	.string "So, {PLAYER}, you're claiming the\n"
+	.string "ELECTRIC POKéMON PICHU?$"
+
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
     .string "This POKéMON is really quite\n"

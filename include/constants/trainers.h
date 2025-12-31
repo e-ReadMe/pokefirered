@@ -151,7 +151,7 @@
 #define TRAINER_PIC_CRUSH_KIN             130
 #define TRAINER_PIC_SIS_AND_BRO           131
 #define TRAINER_PIC_PROFESSOR_OAK         132
-#define TRAINER_PIC_RS_BRENDAN_2          133
+#define TRAINER_PIC_ROCKETTRIO            133// swapped in with Brendan_2 because anything added after painter isn't loaded correctly. some place there'll be a thing that tells the game how many trainer images there are, but i haven't foudn it. 
 #define TRAINER_PIC_RS_MAY_2              134
 #define TRAINER_PIC_RED                   135
 #define TRAINER_PIC_LEAF                  136
@@ -166,6 +166,7 @@
 #define TRAINER_PIC_RUIN_MANIAC           145
 #define TRAINER_PIC_LADY                  146
 #define TRAINER_PIC_PAINTER               147
+#define TRAINER_PIC_RS_BRENDAN_2          148
 
 // The player back pics are assumed to alternate according to the gender values (MALE/FEMALE)
 #define TRAINER_BACK_PIC_RED                    0
@@ -287,6 +288,7 @@
 #define TRAINER_CLASS_RUIN_MANIAC         104
 #define TRAINER_CLASS_LADY                105
 #define TRAINER_CLASS_PAINTER             106
+#define TRAINER_CLASS_ROCKETTRIO          107
 
 #define FACILITY_CLASS_AQUA_LEADER_ARCHIE     0
 #define FACILITY_CLASS_AQUA_GRUNT_M           1
@@ -438,6 +440,7 @@
 #define FACILITY_CLASS_ELITE_FOUR_AGATHA      147
 #define FACILITY_CLASS_ELITE_FOUR_LANCE       148
 #define FACILITY_CLASS_CHAMPION_RIVAL_2       149
+#define FACILITY_CLASS_ROCKETTRIO             150
 
 #define F_TRAINER_FEMALE (1 << 7)
 

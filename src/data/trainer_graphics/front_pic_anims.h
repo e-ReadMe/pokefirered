@@ -548,6 +548,11 @@ static const union AnimCmd *const sAnims_RocketGruntM[] =
     sAnim_GeneralFrame0,
 };
 
+static const union AnimCmd *const sAnims_RocketTrio[] =
+{
+    sAnim_GeneralFrame0,
+};
+
 static const union AnimCmd *const sAnims_CooltrainerM[] =
 {
     sAnim_GeneralFrame0,
@@ -888,4 +893,5 @@ const union AnimCmd *const *const gTrainerFrontAnimsPtrTable[] =
     [TRAINER_PIC_RUIN_MANIAC]           = sAnims_RuinManiac,
     [TRAINER_PIC_LADY]                  = sAnims_Lady,
     [TRAINER_PIC_PAINTER]               = sAnims_Painter,
+    [TRAINER_PIC_ROCKETTRIO]            = sAnims_RocketTrio,
 };

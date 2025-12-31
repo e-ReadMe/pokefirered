@@ -1,37 +1,47 @@
 Route24_Text_JustEarnedFabulousPrize::
-    .string "Congratulations! You beat our\n"
-    .string "five contest TRAINERS!\p"
-    .string "You just earned a fabulous prize!$"
+	.string "Girl: Congratulations! You beat our\n"
+	.string "five contest TRAINERS!\p"
+	.string "You just earned a fabulous prize!\p"
+	.string "Boy: Jessie, do we really have to give\n"
+	.string "them the nugget? Can't we just not, and\n"
+	.string "say we did?\p"
+	.string "Girl: Yes, James, now shutup, your\n"
+	.string "blowing our cover!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
     .string "{PLAYER} received a NUGGET\n"
-    .string "from the mystery TRAINER!$"
+    .string "from the mystery TRAINERS!$"
 
 Route24_Text_YouDontHaveAnyRoom::
     .string "You don't have any room!$"
 
 Route24_Text_JoinTeamRocket::
-    .string "By the way, how would you like to\n"
-    .string "join TEAM ROCKET?\p"
-    .string "We're a group of professional\n"
-    .string "criminals specializing in POKéMON!\p"
-    .string "Want to join?\p"
-    .string "Are you sure?\p"
-    .string "Come on, join us!\p"
-    .string "I'm telling you to join!\p"
-    .string "…Okay, you need convincing!\p"
-    .string "I'll make you an offer you can't\n"
-    .string "refuse!$"
+	.string "Jessie: By the way, how would you like\n"
+	.string "to join TEAM ROCKET?\p"
+	.string "James: Jessie?\p"
+	.string "Jessie: Shutup, James!\p"
+	.string "Jessie: We're a group of professional\n"
+	.string "criminals specializing in POKéMON!\p"
+	.string "Want to join?\p"
+	.string "James: Jessie, this kid's looking REALLY\n"
+	.string "familiar.\p"
+	.string "Jessie: !!!\p"
+	.string "Jessie: Your right, its the Twerp who\n"
+	.string "beat us at Mt Moon! Hand over your\n"
+	.string "POKéMON!\p"
+	.string "What'd you mean, 'no'? Okay, you need\n"
+	.string "convincing! I'll make you an offer you\n"
+	.string "can't refuse!$"
 
 Route24_Text_RocketDefeat::
     .string "Arrgh!\n"
     .string "You are good!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-    .string "With your ability, you'd become\n"
-    .string "a top leader in TEAM ROCKET.\p"
-    .string "Come on, think of the opportunity!\n"
-    .string "Don't let this chance go to waste.$"
+	.string "Jessie: With your POKéMON, we'd become\n"
+	.string "top leaders in TEAM ROCKET.\p"
+	.string "James: You'd better believe we'll be\n"
+	.string "back!$"
 
 Route24_Text_ShaneIntro::
     .string "I saw your feat from the grass!$"
@@ -98,3 +108,9 @@ Route24_Text_CaleDefeat::
 
 Route24_Text_CalePostBattle::
     .string "I did my best. I have no regrets!$"
+
+Route24_Text_AvailableMon::
+	.string "Be kind, its my first day\p"
+	.string "(being a sign, I mean.)\p"
+	.string "Available Mon on Route 24 include\n"
+	.string "Squirtle, Venonat, Slowpoke and Abra.$"

@@ -95,3 +95,8 @@ Route24_Movement_RocketWalkBackToPos::
 Route24_Movement_WalkDown::
 	walk_down
 	step_end
+
+Route24_Sign_AvailableMon::
+	msgbox Route24_Text_AvailableMon, MSGBOX_SIGN
+	end
+

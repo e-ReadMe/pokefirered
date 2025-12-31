@@ -19,7 +19,7 @@
     {
       "english": "MASTER BALL",
       "itemId": "ITEM_MASTER_BALL",
-      "price": 0,
+      "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "The best BALL with the ultimate\\nperformance. It will catch any wild\\nPOKéMON without fail.",
@@ -35,7 +35,7 @@
     {
       "english": "ULTRA BALL",
       "itemId": "ITEM_ULTRA_BALL",
-      "price": 1200,
+      "price": 150,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A very high-grade BALL that offers\\na higher POKéMON catch rate than\\na GREAT BALL.",
@@ -51,7 +51,7 @@
     {
       "english": "GREAT BALL",
       "itemId": "ITEM_GREAT_BALL",
-      "price": 600,
+      "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A good, quality BALL that offers\\na higher POKéMON catch rate than\\na standard POKé BALL.",
@@ -67,7 +67,7 @@
     {
       "english": "POK\u00e9 BALL",
       "itemId": "ITEM_POKE_BALL",
-      "price": 200,
+      "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A BALL thrown to catch a wild\\nPOKéMON. It is designed in a\\ncapsule style.",
@@ -83,7 +83,7 @@
     {
       "english": "SAFARI BALL",
       "itemId": "ITEM_SAFARI_BALL",
-      "price": 0,
+      "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A special BALL that is used only in\\nthe SAFARI ZONE. It is finished in\\na camouflage pattern.",
@@ -99,7 +99,7 @@
     {
       "english": "NET BALL",
       "itemId": "ITEM_NET_BALL",
-      "price": 1000,
+      "price": 150,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A somewhat different BALL that\\nworks especially well on WATER- and\\nBUG-type POKéMON.",
@@ -115,7 +115,7 @@
     {
       "english": "DIVE BALL",
       "itemId": "ITEM_DIVE_BALL",
-      "price": 1000,
+      "price": 150,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A somewhat different BALL that\\nworks especially well on POKéMON\\ndeep in the sea.",
@@ -131,7 +131,7 @@
     {
       "english": "NEST BALL",
       "itemId": "ITEM_NEST_BALL",
-      "price": 1000,
+      "price": 150,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A somewhat different BALL that\\nworks especially well on weaker\\nPOKéMON.",
@@ -147,7 +147,7 @@
     {
       "english": "REPEAT BALL",
       "itemId": "ITEM_REPEAT_BALL",
-      "price": 1000,
+      "price": 150,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A somewhat different BALL that\\nworks especially well on POKéMON\\ncaught before.",
@@ -163,7 +163,7 @@
     {
       "english": "TIMER BALL",
       "itemId": "ITEM_TIMER_BALL",
-      "price": 1000,
+      "price": 150,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A somewhat different BALL that\\nbecomes progressively better the\\nmore turns there are in a battle.",
@@ -179,7 +179,7 @@
     {
       "english": "LUXURY BALL",
       "itemId": "ITEM_LUXURY_BALL",
-      "price": 1000,
+      "price": 150,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A comfortable BALL that makes a\\ncaptured wild POKéMON quickly grow\\nfriendly.",
@@ -195,7 +195,7 @@
     {
       "english": "PREMIER BALL",
       "itemId": "ITEM_PREMIER_BALL",
-      "price": 200,
+      "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A rare BALL that has been\\nspecially made to commemorate an\\nevent of some sort.",
@@ -547,7 +547,7 @@
     {
       "english": "ETHER",
       "itemId": "ITEM_ETHER",
-      "price": 1200,
+      "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 10,
       "description_english": "Restores a selected move's PP by\\n10 points for one POKéMON.",
@@ -1011,7 +1011,7 @@
     {
       "english": "HP UP",
       "itemId": "ITEM_HP_UP",
-      "price": 9800,
+      "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A nutritious drink for POKéMON.\\nIt raises the base HP of one\\nPOKéMON.",
@@ -1027,7 +1027,7 @@
     {
       "english": "PROTEIN",
       "itemId": "ITEM_PROTEIN",
-      "price": 9800,
+      "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A nutritious drink for POKéMON.\\nIt raises the base ATTACK stat of\\none POKéMON.",
@@ -1043,7 +1043,7 @@
     {
       "english": "IRON",
       "itemId": "ITEM_IRON",
-      "price": 9800,
+      "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A nutritious drink for POKéMON.\\nIt raises the base DEFENSE stat of\\none POKéMON.",
@@ -1059,7 +1059,7 @@
     {
       "english": "CARBOS",
       "itemId": "ITEM_CARBOS",
-      "price": 9800,
+      "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A nutritious drink for POKéMON.\\nIt raises the base SPEED stat of\\none POKéMON.",
@@ -1075,7 +1075,7 @@
     {
       "english": "CALCIUM",
       "itemId": "ITEM_CALCIUM",
-      "price": 9800,
+      "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A nutritious drink for POKéMON.\\nIt raises the base SP. ATK stat\\nof one POKéMON.",
@@ -1091,7 +1091,7 @@
     {
       "english": "RARE CANDY",
       "itemId": "ITEM_RARE_CANDY",
-      "price": 4800,
+      "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A candy that is packed with energy.\\nIt raises the level of a POKéMON\\nby one.",
@@ -1107,7 +1107,7 @@
     {
       "english": "PP UP",
       "itemId": "ITEM_PP_UP",
-      "price": 9800,
+      "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "Slightly raises the maximum PP of\\na selected move for one POKéMON.",
@@ -1123,7 +1123,7 @@
     {
       "english": "ZINC",
       "itemId": "ITEM_ZINC",
-      "price": 9800,
+      "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A nutritious drink for POKéMON.\\nIt raises the base SP. DEF stat\\nof one POKéMON.",
@@ -1139,7 +1139,7 @@
     {
       "english": "PP MAX",
       "itemId": "ITEM_PP_MAX",
-      "price": 9800,
+      "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "Raises the PP of a selected move\\nto its maximum level for one\\nPOKéMON.",

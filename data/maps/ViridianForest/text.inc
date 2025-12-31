@@ -94,10 +94,10 @@ ViridianForest_Text_CantCatchOwnedMons::
     .string "POKéMON to catch them!$"
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
-    .string "TRAINER TIPS\p"
-    .string "Weaken POKéMON before attempting\n"
-    .string "capture!\p"
-    .string "When healthy, they may escape!$"
+	.string "Viridian Forest: I hope you aren't\n"
+	.string "afraid of bugs.\p"
+	.string "Available mon include Caterpie,\n"
+	.string "Metapod, Weedle, Kakuna, and Pichu.$"
 
 ViridianForest_Text_LeavingViridianForest::
     .string "LEAVING VIRIDIAN FOREST\n"

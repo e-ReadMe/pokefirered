@@ -22,18 +22,24 @@ MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
     .string "fossils.$"
 
 MtMoon_B2F_Text_Grunt1Intro::
-    .string "We, TEAM ROCKET, shall find the\n"
-    .string "fossils!\p"
-    .string "Reviving POKéMON from them will\n"
-    .string "earn us huge riches!$"
+	.string "Jessie: Hold up, Twerp! We, TEAM ROCKET,\n"
+	.string "shall find the fossils!\p"
+	.string "James: When we hand them over to The\n"
+	.string "Boss, he'll be able to revive them, and\n"
+	.string "earn us huge riches!\p"
+	.string "Jessie: You probably don't have any\n"
+	.string "good pokemon. So get lost!$"
 
 MtMoon_B2F_Text_Grunt1Defeat::
-    .string "Urgh!\n"
-    .string "Now I'm mad!$"
+	.string "What happened? Those pokemon of yours\n"
+	.string "were disgustingly strong!$"
 
 MtMoon_B2F_Text_Grunt1PostBattle::
-    .string "You made me mad!\n"
-    .string "TEAM ROCKET will blacklist you!$"
+	.string "Jessie: The Boss'll sure be mad with us\n"
+	.string "if we come back empty handed.\p"
+	.string "James: You know, this kid's pokemon\n"
+	.string "seemed really strong. If we swiped them,\n"
+	.string "I'm sure the Boss'll be impressed.$"
 
 MtMoon_B2F_Text_Grunt2Intro::
     .string "We, TEAM ROCKET, are POKéMON\n"
